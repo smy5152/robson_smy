@@ -3,6 +3,13 @@ body {
   color: rgb(26, 68, 120);
   font-family: "Courier New", Courier, monospace;
 }
+@media (max-width: 600px) {
+  body {
+    background-color: rgb(132, 155, 204);
+    color: rgb(26, 68, 120);
+    font-family: "Courier New", Courier, monospace;
+  }
+}
 
 .logo {
   width: 60vw;
